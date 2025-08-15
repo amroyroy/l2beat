@@ -35,6 +35,7 @@ import { inevm } from '../projects/inevm/inevm'
 import { intmax } from '../projects/intmax/intmax'
 import { jetstreamchain } from '../projects/jetstreamchain/jetstreamchain'
 import { l3x } from '../projects/l3x/l3x'
+import { litchain } from '../projects/litchain/litchain'
 import { lumiterra } from '../projects/lumiterra/lumiterra'
 import { mindchain } from '../projects/mindchain/mindchain'
 import { molten } from '../projects/molten/molten'
@@ -134,6 +135,7 @@ export const layer3s: ScalingProject[] = [
   vemphorizon,
   vessel,
   l3x,
+  litchain,
   lumiterra,
   oursong,
   playblock,
